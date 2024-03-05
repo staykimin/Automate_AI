@@ -19,7 +19,7 @@ Pastikan Sudah Menginstall Chrome Terlebih Dahulu. Kemudian Install Beberapa Lib
   pip install flask selenium flask-cors
 ```
 
-Jalankan Program Sever.py Dengan Cara
+Jalankan Program server.py Dengan Cara
 ```python
    python server.py
 ```
