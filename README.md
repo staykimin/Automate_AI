@@ -17,11 +17,14 @@ Project Gabut Dimana Akan Mengautomate Beberapa Website AI Ternama Untuk Dijadik
 Pastikan Sudah Menginstall Chrome Terlebih Dahulu. Kemudian Install Beberapa Library Yang Dibutuhkan Berikut Dengan Cara :
 
 ```python
-  pip install flask selenium
+  pip install flask selenium flask-cors
 ```
 
-## Cara Penggunaan
+Jalankan Program Sever.py Dengan Cara
 ```python
    python server.py
 ```
 
+Jika Belum Pernah Login Ketika Chrome Dibuka, Maka Login Terlebih Dahulu Secara Manual Sampai Bisa Di Halaman chat dari AI. Misalnya **chat.openai.com** atau **gemini.google.com/app**.
+
+**Note : Proses Login Ini Cuman Sekali Saja dan Cuman Akan Dilakukan Ketika Belum Pernah Login**
