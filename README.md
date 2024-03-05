@@ -8,8 +8,7 @@ Project Gabut Dimana Akan Mengautomate Beberapa Website AI Ternama Untuk Dijadik
 ## List Automate AI
 
  - [Chat GPT](/chat_gpt)
- - [Gemini](https://gemini.google.com/app)
- - [2 IN 1](https://gemini.google.com/app)
+ - [Gemini](/gemini)
 
 
 ## Cara Penggunaan
