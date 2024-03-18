@@ -27,3 +27,14 @@ Jalankan Program server.py Dengan Cara
 Jika Belum Pernah Login Ketika Chrome Dibuka, Maka Login Terlebih Dahulu Secara Manual Sampai Bisa Di Halaman chat dari AI. Misalnya **chat.openai.com** atau **gemini.google.com/app**.
 
 **Note : Proses Login Ini Cuman Sekali Saja dan Cuman Akan Dilakukan Ketika Belum Pernah Login**
+
+## Author
+
+- [@staykimin](https://github.com/staykimin)
+
+## Support
+
+Support Saya Di :
+
+- [Saweria](https://saweria.co/staykimin)
+- [Facebook](https://web.facebook.com/profile.php?id=61557427611851)
